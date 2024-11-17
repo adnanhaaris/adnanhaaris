@@ -11,11 +11,13 @@ I am a passionate developer specializing in building robust and scalable web app
 
 #### 💻 Programming Languages
 
-- **C**: <progress value="70" max="100"></progress> 70%  
-- **C++**: <progress value="60" max="100"></progress> 60%  
-- **JavaScript**: <progress value="80" max="100"></progress> 80%  
-- **TypeScript**: <progress value="75" max="100"></progress> 75%  
-- **Python**: <progress value="65" max="100"></progress> 65%
+| **Language**   | **Proficiency**       |
+|-----------------|-----------------------|
+| **C**          | ⭐⭐⭐⭐⭐⭐⭐☆☆☆ (70%)     |
+| **C++**        | ⭐⭐⭐⭐⭐⭐☆☆☆☆ (60%)     |
+| **JavaScript** | ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (80%)     |
+| **TypeScript** | ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (80%)     |
+| **Python**     | ⭐⭐⭐⭐⭐⭐⭐☆☆☆ (70%)     |
 
 #### **Frontend**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
