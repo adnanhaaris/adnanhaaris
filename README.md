@@ -13,11 +13,11 @@ I am a passionate developer specializing in building robust and scalable web app
 
 | **Language**   | **Proficiency**       |
 |-----------------|-----------------------|
-| **C**          | ⭐⭐⭐⭐⭐⭐⭐☆☆☆ (70%)     |
-| **C++**        | ⭐⭐⭐⭐⭐⭐☆☆☆☆ (60%)     |
-| **JavaScript** | ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (80%)     |
-| **TypeScript** | ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (80%)     |
-| **Python**     | ⭐⭐⭐⭐⭐⭐⭐☆☆☆ (70%)     |
+| **C**          | ⭐⭐⭐⭐⭐⭐⭐☆☆☆      |
+| **C++**        | ⭐⭐⭐⭐⭐⭐☆☆☆☆      |
+| **JavaScript** | ⭐⭐⭐⭐⭐⭐⭐⭐☆☆      |
+| **TypeScript** | ⭐⭐⭐⭐⭐⭐⭐⭐☆☆     |
+| **Python**     | ⭐⭐⭐⭐⭐⭐⭐☆☆☆    |
 
 #### **Frontend**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
