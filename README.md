@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Bachelors degree in Computer Science and Engineering...
 m
 
-### 🚀 MERN Stack Developer | Full-Stack Enthusiast | Open Source Contributor
+### 🚀 MERN Stack Professional | Software Developer
 
 I am a passionate developer specializing in building robust and scalable web applications using the **MERN Stack (MongoDB, Express, React, Node.js)**. With a keen eye for detail and a love for clean code, I strive to deliver seamless user experiences.
 
