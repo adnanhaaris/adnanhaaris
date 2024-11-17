@@ -46,8 +46,8 @@ I am a passionate developer specializing in building robust and scalable web app
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adnanhaaris&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnanhaaris&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
@@ -58,7 +58,7 @@ I am a passionate developer specializing in building robust and scalable web app
   - **Tech Stack:** MongoDB, Express, React, Node.js.
 
 - **Hybrid Work Management Solution**
-  - All in one platform to strealmine hybrid work environment.
+  - All in one platform to streamline hybrid work environment.
   - **Tech Stack:** MERN + Tailwind CSS.
 
 ---
