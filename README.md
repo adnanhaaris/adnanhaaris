@@ -8,6 +8,17 @@ m
 I am a passionate developer specializing in building robust and scalable web applications using the **MERN Stack (MongoDB, Express, React, Node.js)**. With a keen eye for detail and a love for clean code, I strive to deliver seamless user experiences.
 
 🔧 Technologies & Tools
+
+#### 💻 Programming Languages
+
+| Language       | Proficiency |
+|----------------|-------------|
+| **C**          | ![C](https://progress-bar.dev/70/) |
+| **C++**        | ![C++](https://progress-bar.dev/60/) |
+| **JavaScript** | ![JavaScript](https://progress-bar.dev/80/) |
+| **TypeScript** | ![TypeScript](https://progress-bar.dev/75/) |
+| **Python**     | ![Python](https://progress-bar.dev/65/) |
+
 #### **Frontend**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
