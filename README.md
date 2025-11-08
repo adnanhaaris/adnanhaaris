@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Adnan Haaris
 - 👀 I’m based in Kerala, India.
 - 🌱 I’m a recent Engineering Graduate...
-m
 
 ### 🚀 Software Developer | MERN Stack Professional
 
