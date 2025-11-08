@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Adnan Haaris
 - 👀 I’m based in Kerala, India.
-- 🌱 I’m currently learning Bachelors degree in Computer Science and Engineering...
+- 🌱 I’m a recent Engineering Graduate...
 m
 
-### 🚀 MERN Stack Professional | Software Developer
+### 🚀 Software Developer | MERN Stack Professional
 
-I am a passionate developer specializing in building robust and scalable web applications using the **MERN Stack (MongoDB, Express, React, Node.js)**. With a keen eye for detail and a love for clean code, I strive to deliver seamless user experiences.
+I am a developer specializing in building robust and scalable web applications using the **MERN Stack (MongoDB, Express, React, Node.js)**. With a keen eye for detail and a love for clean code, I strive to deliver seamless user experiences.
 
 🔧 Technologies & Tools
 
