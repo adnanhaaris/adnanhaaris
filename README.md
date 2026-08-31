@@ -44,12 +44,6 @@ I am a developer specializing in building robust and scalable web applications w
 
 ---
 
-### 🏆 Achievements
-- 💡 Built and deployed 5+ full-stack applications with React and Node.js.
-- 🧑‍🏫 Mentored aspiring developers in mastering the MERN Stack.
-
----
-
 ### 🤝 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-haaris)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adnanhaaris@gmail.com)
