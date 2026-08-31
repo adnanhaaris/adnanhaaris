@@ -44,14 +44,6 @@ I am a developer specializing in building robust and scalable web applications w
 
 ---
 
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adnanhaaris&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnanhaaris&theme=radical" alt="GitHub Streak" />
-</div>
-
----
-
 ### 🏆 Achievements
 - 💡 Built and deployed 5+ full-stack applications with React and Node.js.
 - 🧑‍🏫 Mentored aspiring developers in mastering the MERN Stack.
