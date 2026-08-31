@@ -2,9 +2,9 @@
 - 👀 I’m based in Kerala, India.
 - 🌱 I’m a recent Engineering Graduate...
 
-### 🚀 Software Developer | MERN Stack Professional
+### 🚀 Software Architect
 
-I am a developer specializing in building robust and scalable web applications using the **MERN Stack (MongoDB, Express, React, Node.js)**. With a keen eye for detail and a love for clean code, I strive to deliver seamless user experiences.
+I am a developer specializing in building robust and scalable web applications with a keen eye for detail and a love for clean code, I strive to deliver seamless user experiences.
 
 🔧 Technologies & Tools
 
@@ -17,6 +17,7 @@ I am a developer specializing in building robust and scalable web applications u
 | **JavaScript** | ⭐⭐⭐⭐⭐⭐⭐⭐☆☆      |
 | **TypeScript** | ⭐⭐⭐⭐⭐⭐⭐⭐☆☆     |
 | **Python**     | ⭐⭐⭐⭐⭐⭐⭐☆☆☆    |
+| **C#**     | ⭐⭐⭐⭐⭐⭐⭐⭐☆☆    |
 
 #### **Frontend**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -48,17 +49,6 @@ I am a developer specializing in building robust and scalable web applications u
   <img src="https://github-readme-stats.vercel.app/api?username=adnanhaaris&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnanhaaris&theme=radical" alt="GitHub Streak" />
 </div>
-
----
-
-### 🌟 Featured Projects
-- **Mega Mind Learning Management System**
-  - Tailored Learning Platform for B.Tech Students.
-  - **Tech Stack:** MongoDB, Express, React, Node.js.
-
-- **Hybrid Work Management Solution**
-  - All in one platform to streamline hybrid work environment.
-  - **Tech Stack:** MERN + Tailwind CSS.
 
 ---
 
